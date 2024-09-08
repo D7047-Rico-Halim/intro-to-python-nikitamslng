@@ -1,7 +1,7 @@
 #mohon ubah pada "your code here"
 
 def VolumeBalok(panjang, lebar, tinggi):
-    return <your code here>
+    return panjang*lebar*tinggi
 
 def VolumeKubus(sisi):
-    return <your code here>
+    return sisi**3
